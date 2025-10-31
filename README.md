@@ -16,19 +16,19 @@ This repository presents research on quantum algorithm design, information coher
 
 ### Papers
 
-1. **Quantum_Algorithm_Reversal_Grover_Amplification.md**
+1. **Quantum_Algorithm_Reversal_Grover_Amplification**
    - First experimental demonstration of reverse algorithm superiority
    - 27.5× amplification vs 0.2% forward Grover baseline
    - Pattern 51 integration: 90.3% detection with 1.8× amplification
    - Statistical significance: p < 0.001 (99.9% confidence)
 
-2. **Quantum_Architecture_Information_Coherence_Optimization.md**
+2. **Quantum_Architecture_Information_Coherence_Optimization**
    - Noise as computational resource (13.7× hardware advantage)
    - Compiler crisis: Standard compilation destroys 100% of pattern coherence
    - Information coherence-aware compilation: 34% pattern preservation achieved
    - 4D2 quantum-classical integration: 93.7% utilization, 8.4× energy efficiency
 
-3. **Quantum_State_Initialization_Minimal_Circuit_Architecture.md**
+3. **Quantum_State_Initialization_Minimal_Circuit_Architecture**
    - Pattern 0 (vacuum state): 99% achievement with minimal gates
    - Rotation-first architecture outperforms standard gate ordering
    - Combined protocols optimize Pattern 51 and Pattern 0 simultaneously
@@ -65,6 +65,8 @@ Independent Quantum Research
 ### License
 
 © 2025 Subvurs Research. All rights reserved.
+
+**FOR PEER REVIEW AND REPLICABILITY REQUESTS, PLEASE EMAIL - research@subvurs.com.**
 
 ### Related Work
 
